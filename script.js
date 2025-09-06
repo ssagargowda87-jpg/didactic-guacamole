@@ -25,7 +25,7 @@ function now(){ return new Date().toISOString(); }
 
 function db(){
   const seedProducts = [
-    { title:'Vintage Denim Jacket', price:25, category:'Clothing', image:'https://via.placeholder.com/600x450?text=EcoFinds+Jacket', description:'Well-loved denim jacket, size M.' },
+    { title:'Vintage Denim Jacket', price:25, category:'Clothing', image:"shopping.system folder', description:'Well-loved denim jacket, size M.' },
     { title:'Used Laptop 8GB/256GB', price:220, category:'Electronics', image:'https://via.placeholder.com/600x450?text=EcoFinds+Laptop', description:'Works great, minor scratches.' },
     { title:'Wooden Coffee Table', price:60, category:'Furniture', image:'https://via.placeholder.com/600x450?text=EcoFinds+Table', description:'Solid wood, 90x45 cm.' },
   ];
