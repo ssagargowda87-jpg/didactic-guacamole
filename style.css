@@ -19,8 +19,8 @@ body{
 
 .header{
   position:sticky; top:0; z-index:10;
-  background:linear-gradient(0deg, var(--brown), var(--beige));
-  color:#fff;
+  background:linear-gradient(0deg, var(--brown), var(--brown));
+  color:#654321;
   box-shadow:var(--shadow);
 }
 .header .wrap{
